@@ -1,0 +1,10 @@
+{
+  "name": "ScripterJS",
+  "description": "Tools for coding and skiovox shenanigans",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "main.html",
+    "default_icon": "ScripterJS.png"
+  }
+}
